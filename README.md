@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karishmatik
 - 👀 I’m interested in software engineeering 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently work on python projects
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me chriskariuki77@gmail.com
 
 <!---
