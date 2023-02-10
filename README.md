@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karishmatik
+- 👋 Hi, I’m @Chrisphine Kariuki Njoroge
 - 👀 I’m interested in software engineeering 
 - 🌱 I’m currently work on python projects
 - 💞️ I’m looking to collaborate on python projects
